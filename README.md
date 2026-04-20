@@ -54,7 +54,7 @@ Week 7 (20 April 2026: Website launch - Final Submission
 
 ## Sitemap
 
-!("C:\Users\ST10513841\Downloads\sitemap.jpg") <br> (The one here is only an example, include your own site map)
+![Website Sitemap](img/sitemap.jpg) <br> 
 
 ## References
 
