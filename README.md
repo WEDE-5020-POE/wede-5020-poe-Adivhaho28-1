@@ -59,3 +59,5 @@ Week 7 (20 April 2026: Website launch - Final Submission
 ## References
 
 -HostAfrica(2024) 
+-Hostinger(2026)
+-W3Schools.(2026)
