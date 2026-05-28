@@ -1,14 +1,26 @@
+
+
+# Snatche Wigs Website
+
+## Project Overview
+Snatche Wigs is a small beauty business website developed to showcase and sell synthetic and human hair blend wigs online. The website was created using HTML, CSS, and focuses on responsive design, user experience, and modern styling.
+
 ## CSS Styling
-- Created external stylesheet (style.css)
-- Added typography styling
-- Added navigation styling
-- Added hover effects and buttons
-- Created responsive product layout using Flexbox
+An external stylesheet (`style.css`) was created to improve the appearance and consistency of the website.
+
+### Styling Features Added
+- Typography styling
+- Navigation bar styling
+- Hero section styling
+- Product card layouts
+- Form styling
+- Footer styling
+- Hover effects on buttons and navigation links
+- Consistent pink and white colour scheme
 
 ## Responsive Design
-- Added media queries for tablet and mobile devices
-- Improved navigation responsiveness
-- Adjusted font sizes and layout for smaller screens
+Responsive web design techniques were implemented to ensure the website works correctly on different screen sizes.
+
 1. Mobile device:
 
 <img width="187" height="394" alt="Screenshot 2026-05-28 220422" src="https://github.com/user-attachments/assets/e2f20933-40a9-456e-bd76-610831b0dc70" />
@@ -21,10 +33,33 @@
 
 <img width="1887" height="895" alt="Screenshot 2026-05-28 220547" src="https://github.com/user-attachments/assets/6b5bc85c-8395-4931-87d1-b11db41bed66" />
 
+### Responsive Features
+- Flexbox layout used for product sections
+- Media queries added for:
+  - Tablets
+  - Mobile devices
+- Responsive navigation layout
+- Responsive images and product cards
+- Adjusted font sizes for smaller screens
 
 ## Testing
-- Tested website on desktop and mobile screen sizes
-- Fixed layout spacing and responsiveness issues
+The website was tested using:
+- Google Chrome
+- Microsoft Edge
+- Mobile responsive testing tools
+
+## Challenges Faced
+- Responsive layout adjustments
+- Navigation alignment on smaller screens
+- Styling consistency across pages
+- Form validation setup
+
+## Improvements Made
+- Improved mobile responsiveness
+- Added interactive buttons
+- Added consistent branding
+- Improved website layout and spacing
+
 
 References:
 W3Schools. (2026) CSS Tutorial. Available at: https://www.w3schools.com/css/ (Accessed: 28 May 2026).
