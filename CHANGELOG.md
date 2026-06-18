@@ -24,7 +24,7 @@ Example: 2.1.3
 - PATCH → Bug fixes / small improvements (1.0.0 → 1.0.1)
 
 
-##[1.0] – Initial Website Setup
+## [1.0] – Initial Website Setup
 
 * Created project folder structure
 * Added HTML pages:
@@ -67,6 +67,25 @@ Example: 2.1.3
     * product cards
     * form styling
 * Implemented consistent pink and white colour scheme
+* Added full CSS reset for consistent styling across browsers
+* Added Flexbox layout for:
+* Navigation menu
+* Product cards section
+* Image gallery
+* Added responsive navigation bar (mobile + tablet support)
+* Added hero section styling with centered layout and responsive text scaling
+* Added hover effects for:
+  * Navigation links
+  * Product cards
+  * Buttons
+* Added modal popup styling for order/enquiry forms
+* Added image gallery with hover zoom effect
+* Added lightbox overlay for image viewing
+* Added scroll-to-top button styling
+* Added search bar styling with focus effects
+* Added Google Maps iframe styling
+* Added form styling improvements (inputs, textarea, select focus states)
+* Added error message styling for form validation
 
 
 ## [1.4] – Responsive Design
@@ -77,6 +96,13 @@ Example: 2.1.3
     * tablets
     * mobile devices
 * Improved mobile navigation and spacing
+* Improved tablet layout using media queries (≤768px)
+* Improved mobile layout (≤480px)
+* Navigation stacks vertically on small screens
+* Product cards become single-column on mobile
+* Gallery images resize for smaller screens
+* Hero section text scales down for readability
+* Search bar expands to fit smaller screens
 
 ## [1.5] – JavaScript Features
 
@@ -85,7 +111,16 @@ Example: 2.1.3
 * Added order confirmation alerts
 * Added automatic product selection from product page
 * Improved user interactivity
-
+* Added Javascript functionality
+ * product search system
+ * lightbox image galler
+ * order system
+ * form validation system
+ * confirmation system
+ * auto ptoduct fill feature
+ * scroll to top button
+ * page load event
+ * modal behaviour 
 
 ## [1.6] – Testing and Debugging
 
