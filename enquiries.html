@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="css/style.css">
+
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Snatche wigs Enquiries / Orders</title>
+
+    <meta name="viewport" 
+    content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+    content="Snatche wigs sells premium synthetic and human hair blend wigs">
+
+    <meta name="keywords"
+    content="wigs, lace wigs, human hair wigs, beauty">
+
+    <meta name="author"
+    content="Your Name">
+
+    <title>Snatche wigs | Enquiries</title>
 </head>
 <body>
     <header>
-        
         <h1>Snatche Wigs</h1>
     </header>
 
@@ -20,41 +33,40 @@
     </nav>
 
     <main>
-        <h2>Orders</h2>
+        <h2>Customer Enquiries</h2>
 
-        <p>Fill in the details and place your order.</p>
+        <p>If you have any questions or messages for our wigs please fill in the form below.</p>
 
-        <form>
+        <form onsubmit="return validateEnquiryForm()">
+
+            <p id="enquiryError"></p>
 
             <label>Name:</label><br>
-            <input type="text" name="name" required><br><br>
+            <input type="text" id="name" name="name"><br><br>
 
             <label>Email:</label><br>
-            <input type="email" name="email" required><br><br>
+            <input type="email" id="email" name="email"><br><br>
 
-            <label>Select wig:</label><br>
-            <select name="wig">
-                <option>Body wave wig</option>
-                <option> Latisha wig</option>
-                <option>Straight 32inch wig</option>
-            </select><br><br>
+            <label>Your message:</label><br>
+            <textarea id="message" name="message" rows="7" cols="45"></textarea><br><br>
 
-            <label>Quantity:</label><br>
-            <input type="number" name="quantity" min="1"><br><br>
+            <button type="submit">Send Enquiry</button><br><br>
 
-            <label>Delivery Address:</label><br>
-            <textarea name="address" rows="7" cols="45"></textarea><br><br>
-
-            <label>Additional Notes:</label><br>
-            <textarea name="notes" rows="7" cols="45"></textarea><br><br>
-
-            <input type="submit" value="submit"><br><br>
 
         </form>
     </main>
 
+    <button
+onclick="topFunction()"
+id="topBtn">
+
+Back to top
+
+</button>
+
      <footer>
         <p>©2026 Snatche Wigs | All Rights Reserved</p>
     </footer>
+    <script src="js/script.js"></script>
 </body>
 </html>
