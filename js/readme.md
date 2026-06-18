@@ -39,4 +39,9 @@ A button appears when the user scrolls down.
 -Clicking outside modal closes it
 -Improves user experience and navigation flow
 
-
+## References
+- MDN Web Docs (2026) JavaScript Guide. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- MDN Web Docs (2026) Working with the DOM. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+- MDN Web Docs (2026) Form Validation. Available at: https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+- W3Schools (2026) JavaScript Tutorial. Available at: https://www.w3schools.com/js/
+- W3Schools (2026) JavaScript Forms. Available at: https://www.w3schools.com/js/js_validation.asp
