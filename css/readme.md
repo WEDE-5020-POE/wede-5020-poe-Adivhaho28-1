@@ -9,14 +9,16 @@ Snatche Wigs is a small beauty business website developed to showcase and sell s
 An external stylesheet (`style.css`) was created to improve the appearance and consistency of the website.
 
 ### Styling Features Added
-- Typography styling
-- Navigation bar styling
-- Hero section styling
-- Product card layouts
-- Form styling
-- Footer styling
-- Hover effects on buttons and navigation links
-- Consistent pink and white colour scheme
+CSS reset for consistency
+Flexbox layout system
+Hover animations (buttons, cards, gallery)
+Modal popup system
+Lightbox image viewer
+Scroll-to-top button
+Form validation styling support
+Search bar styling
+Responsive navigation system
+Consistent pink/black/white branding
 
 ## Responsive Design
 Responsive web design techniques were implemented to ensure the website works correctly on different screen sizes.
@@ -49,20 +51,25 @@ The website was tested using:
 - Mobile responsive testing tools
 
 ## Challenges Faced
-- Responsive layout adjustments
-- Navigation alignment on smaller screens
-- Styling consistency across pages
-- Form validation setup
+- Responsive navigation alignment
+- Flexbox layout balancing across sections
+- Image scaling for product cards and gallery
+- Modal and lightbox positioning
+- Consistent styling across pages
 
 ## Improvements Made
-- Improved mobile responsiveness
-- Added interactive buttons
-- Added consistent branding
-- Improved website layout and spacing
+- Added full CSS reset for consistency
+- Improved layout using Flexbox throughout site
+- Added interactive hover animations
+- Implemented modal popup system
+- Added image lightbox feature
+- Improved search bar functionality styling
+- Added scroll-to-top button
+- Stronger mobile responsiveness using media queries
+- Better UI consistency across all pages
 
 
 References:
-W3Schools. (2026) CSS Tutorial. Available at: https://www.w3schools.com/css/ (Accessed: 28 May 2026).
+W3Schools. (2026) CSS Tutorial. Available at: https://www.w3schools.com/css/ (Accessed: 18 June 2026).
 Mozilla Developer Network (MDN). (2026) CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 28 May 2026).
 Mozilla Developer Network (MDN). (2026) Responsive design. Available at: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design (Accessed: 28 May 2026).
-
