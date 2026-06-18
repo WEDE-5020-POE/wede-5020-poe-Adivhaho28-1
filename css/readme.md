@@ -1,5 +1,4 @@
 
-
 # Snatche Wigs Website
 
 ## Project Overview
@@ -25,15 +24,17 @@ Responsive web design techniques were implemented to ensure the website works co
 
 1. Mobile device:
 
-<img width="187" height="394" alt="Screenshot 2026-05-28 220422" src="https://github.com/user-attachments/assets/e2f20933-40a9-456e-bd76-610831b0dc70" />
+<img width="187" height="394" alt="Iphone 12pro" src="https://github.com/user-attachments/assets/f9cda3b4-5e03-4dfb-a117-a40a5ffcf9fd" />
 
 2. Tablet
 
-<img width="484" height="640" alt="Screenshot 2026-05-28 220501" src="https://github.com/user-attachments/assets/fb24e28b-91ff-49eb-96a5-533c6f1f1c99" />
+ <img width="484" height="640" alt="ipad air" src="https://github.com/user-attachments/assets/8c064c88-e91e-4cad-a978-39782bd6f8d5" />
+
 
 3. Desktop
 
-<img width="1887" height="895" alt="Screenshot 2026-05-28 220547" src="https://github.com/user-attachments/assets/6b5bc85c-8395-4931-87d1-b11db41bed66" />
+<img width="1887" height="895" alt="laptop" src="https://github.com/user-attachments/assets/5de3aacb-3220-4b55-8a6c-5fd7abf2e5a4" />
+
 
 ### Responsive Features
 - Flexbox layout used for product sections
